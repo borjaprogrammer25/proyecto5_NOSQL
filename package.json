@@ -1,0 +1,16 @@
+{
+  "name": "proyectonosql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Borja Gadea Soler · borjaprogrammer@gmail.com",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongoose": "^9.11.2"
+  }
+}
